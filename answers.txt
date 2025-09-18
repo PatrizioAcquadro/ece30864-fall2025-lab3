@@ -1,1 +1,10 @@
+ECE30864 – Lab 3 – answers.txt
+Author: Patrizio Acquadro
 
+Q1(a) Agile vs non-Agile – 2 Pros & 2 Cons
+Pros of Agile (vs Waterfall):
+1) Iterative delivery with constant customer collaboration: value is delivered continuously, not just at the end. 
+2) More resilient to changing scope and priorities during the project.
+Cons of Agile (vs Waterfall):
+1) Less upfront predictability of exact scope/schedule/cost (because scope can change during iterations).
+2) Requires steady, ongoing engagement from stakeholders and the team, which can be hard to maintain.
