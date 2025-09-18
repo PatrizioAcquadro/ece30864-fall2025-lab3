@@ -27,3 +27,9 @@ Q1(c) Three meetings in a sprint (+ two points each)
 3) Sprint Review & Retrospective
    - Review/demo completed work; move incomplete work back to backlog.
    - Inspect process, agree improvement actions; close the sprint.
+
+Q1(d) Jira issue types – Epic vs Story vs Bug vs Task
+- Epic: large, multi-sprint body of work that groups related Stories/Tasks.
+- Story: user-facing requirement that delivers value; can have subtasks.
+- Bug: a defect causing incorrect behavior; fix restores expected behavior.
+- Task: work item that isn’t a user story or bug (e.g., refactor, CI, infrastructure).
