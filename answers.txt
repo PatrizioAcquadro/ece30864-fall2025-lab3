@@ -16,3 +16,14 @@ Scrum Master:
 Product Owner:
 - Owns product vision and backlog; sets direction and priorities for value.
 - Manages releases and stakeholder communication; accepts/rejects work.
+
+Q1(c) Three meetings in a sprint (+ two points each)
+1) Sprint Planning
+   - Define Sprint Goal and select stories from backlog into sprint.
+   - Estimate/story points and plan capacity/initial task breakdown.
+2) Daily Scrum (Stand-up)
+   - Share progress since last day; plan for the next 24 hours.
+   - Surface blockers/risks early; keep team aligned (≈10 minutes).
+3) Sprint Review & Retrospective
+   - Review/demo completed work; move incomplete work back to backlog.
+   - Inspect process, agree improvement actions; close the sprint.
