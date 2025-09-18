@@ -8,3 +8,11 @@ Pros of Agile (vs Waterfall):
 Cons of Agile (vs Waterfall):
 1) Less upfront predictability of exact scope/schedule/cost (because scope can change during iterations).
 2) Requires steady, ongoing engagement from stakeholders and the team, which can be hard to maintain.
+
+Q1(b) Scrum Master vs Product Owner – roles & responsibilities
+Scrum Master:
+- Facilitates Scrum events (planning, daily scrum, review, retro).
+- Removes impediments, coaches the team, manages Jira/Scrum tooling.
+Product Owner:
+- Owns product vision and backlog; sets direction and priorities for value.
+- Manages releases and stakeholder communication; accepts/rejects work.
